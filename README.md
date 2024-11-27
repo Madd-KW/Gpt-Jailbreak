@@ -7,7 +7,7 @@ Just kidding! I think I discovered a new GPT-4o and 4o-mini jailbreak, and I cou
 # Result
 ![template](https://github.com/Madd-KW/Gpt-Jailbreak/blob/main/file/Screenshot_2024-11-27-07-06-49-36_4d38fce200f96aeac5e860e739312e76.jpg)
 
-How To Do it
+# How To Do it
 Alright, now that I’ve got your attention, let’s get into how this jailbreak works.
 
 The image below illustrates the prompt Template structure that we 
