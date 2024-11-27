@@ -27,5 +27,6 @@ insert the encoded example_prompt and the LLM answer in the prompt template
 Finally, encode the harmful_prompt and insert it in the prompt template
 the template should look something like the one in the image below
 
-and finally
+and finally.
+
 more info [https://medium.com/@zehanimehdi49/base64-one-shot-inference-jailbreak-gpt-4o-4o-mini-dfae67bc8043]
